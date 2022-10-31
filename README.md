@@ -5,5 +5,5 @@ In order to reproduce the results in the paper, you need to download the PTB-XL 
 
 ## requirements:
 ##### pytorch==1.7.1
-##### numpy=1.18.5
+##### numpy==1.18.5
 ##### pandas==1.4.1
