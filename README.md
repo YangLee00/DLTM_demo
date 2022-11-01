@@ -9,4 +9,4 @@ In order to reproduce the results in the paper, you need to download the PTB-XL 
 ##### pandas==1.4.1
 
 ## Contact Authors
-Please contact the authors via email 1303325257@qq.com if you have further questions about DLTM implementation. Technical problems will be fed back.
+Please contact the authors via e-mail 1303325257@qq.com if you have further questions about DLTM implementation. Technical problems will be fed back.
